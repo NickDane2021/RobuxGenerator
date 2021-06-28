@@ -1,0 +1,28 @@
+
+.gilaki{
+    height:200px;
+    width:200px;
+    font-size:15px;
+    
+}
+
+button{
+    
+    width: 50px;
+    height: 50px;
+    background-image: linear-gradient(red, yellow);
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -25px;
+}
+
+html {
+    background-image: url(roblox.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+ 
+  }
